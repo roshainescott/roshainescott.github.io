@@ -1,0 +1,155 @@
+body {background-color: green;
+
+
+}
+h1{
+    font-family: Verdana;
+    margin-left:20px;
+	
+}
+
+    
+p{margin-left: 20px;
+	margin-right:500px;
+
+}
+
+.clear {clear:both;
+        height: 20px;
+		
+}
+
+/*div first-child {float: right;}*/
+
+img{
+    height: 200px; 
+	width:150px; 
+	right:70px;
+	top:45px;
+	position:absolute;
+	clear:left;
+	transform: rotate(-5deg);
+}
+
+
+.education {
+    
+    text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid purple;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-top: 20px;
+	margin-left: 100px;
+
+	 }
+
+.education_info{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:400px;
+	
+	
+}
+
+.skills{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid purple;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	
+	
+	
+}
+.skills_info{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	
+	
+}
+
+.experience{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid purple;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;;
+	
+	
+}
+.experience_info{
+     position: absolute;
+    float: right;
+    height: 200px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	
+}
+
+.hobbies{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid purple;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	
+
+}
+.hobbies_info{
+     position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+}
+
+.references{
+      text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid purple;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	
+	}
+.references_info{
+     position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	}
